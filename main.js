@@ -1,6 +1,14 @@
 function holaMundo (){
     console.log('Hola Git')
 };
+function adiosMundo (){
+    console.log('Adios Mundo')
+};
 
-alert('Nueva ramaaa');
-console.log('Adios mundo');
+function calc (){
+    x = 3;
+    y = 3;
+    r = x + y;
+    console.log(`${x} mas ${y} = ${r}`);
+};
+calc();
