@@ -3,3 +3,4 @@ function holaMundo (){
 };
 
 alert('Nueva ramaaa');
+console.log('Adios mundo');
