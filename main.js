@@ -1,1 +1,3 @@
-console.log('Hola Git');
+function holaMundo (){
+    console.log('Hola Git')
+};
