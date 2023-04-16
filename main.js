@@ -1,6 +1,6 @@
 function holaMundo (){
     console.log('Hola Git')
 };
-
-alert('Nueva ramaaa');
-console.log('Adios mundo');
+function adiosMundo (){
+    console.log('Adios Mundo')
+};
